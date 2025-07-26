@@ -1,1 +1,1 @@
-# Project13
+# Simple mathematical expression solver and visualizer
